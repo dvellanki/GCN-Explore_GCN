@@ -7,5 +7,6 @@ Explore Graph Convolutional Networks
 2. Implement forward pass of GCN by this [paper](https://arxiv.org/pdf/1609.02907.pdf) <br>
 
 References:
-https://computationalsocialnetworks.springeropen.com/articles/10.1186/s40649-019-0069-y#Sec11
-
+1. https://computationalsocialnetworks.springeropen.com/articles/10.1186/s40649-019-0069-y#Sec11
+2. https://github.com/tkipf/gcn
+3. 
